@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'Grasper'
+}
+
+item {
+    id: 2
+    name: 'Bipolar'
+}
+
+item {
+    id: 3
+    name: 'Hook'
+}
+
+item {
+    id: 4
+    name: 'Scissors'
+}
+
+item {
+    id: 5
+    name: 'Clipper'
+}
+
+item {
+    id: 6
+    name: 'Irrigator'
+}
+
+item {
+    id: 7
+    name: 'SpecimenBag'
+}
